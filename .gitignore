@@ -1,0 +1,3 @@
+# Exclude the raw Figma React/JSX export and expired image URL list
+Page.jsx
+image-urls.txt
